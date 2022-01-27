@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="pon_tu_fecha_nacimiento">Pon tu fecha nacimiento</string>
+    <string name="tu_edad_es">Tu edad es</string>
+    <string name="calcular">Calcular</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="textview">TextView</string>
+    <string name="n_mero_telef_nico">Número telefónico</string>
+    <string name="www_algo_com">www.algo.com</string>
+    <string name="escribeme">Escribeme</string>
+    <string name="cont_ctame">Contáctame</string>
+    <string name="todo">TODO</string>
+    <string name="contactos">Contactos</string>
+</resources>
